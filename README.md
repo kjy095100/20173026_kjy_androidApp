@@ -8,4 +8,4 @@
   
 ## 3주차 과제
   <img width="" height="" src="./png/3주차과제1.png"></img>
-  <img width="" height="" src="./png/3주차과제2.png"></img>
+  
